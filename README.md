@@ -35,19 +35,19 @@ In my current role as a Software Engineer at Diligent :rocket:	, I am responsibl
 ## Connect with me
 <div align="center">
 <div align="center">
-<a href="https://balazsvarga.dev" target="_blank">
+<a href="https://balazsvarga.dev" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=angular&logoColor=white alt=balazsvarga.dev style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/balazs-varga" target="_blank">
+<a href="https://github.com/balazs-varga" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/balazsvarga91" target="_blank">
+<a href="https://linkedin.com/in/balazsvarga91" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abalazsvarga" target="_blank">
+<a href="https://www.facebook.com/abalazsvarga" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/balazsvarga" target="_blank">
+<a href="https://instagram.com/balazsvarga" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
