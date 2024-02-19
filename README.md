@@ -34,6 +34,10 @@ In my current role as a Software Engineer at Diligent :rocket:	, I am responsibl
 
 ## Connect with me
 <div align="center">
+<div align="center">
+<a href="https://balazsvarga.dev" target="_blank">
+<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=angular&logoColor=white alt=balazsvarga.dev style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/balazs-varga" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
